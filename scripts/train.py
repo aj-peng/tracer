@@ -3,7 +3,6 @@ from pathlib import Path
 
 import torch
 import yaml
-from sympy.codegen.ast import none
 from ultralytics import YOLO, settings
 
 if __name__ == "__main__":
